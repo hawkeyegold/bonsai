@@ -1,0 +1,23 @@
+{
+	"name": "vscode-theme-bonzai",
+	"displayName": "Bonzai",
+	"description": "Bonzai minimal color high contrast theme for Visual Studio Code",
+	"version": "1.0.0",
+	"publisher": "hawkeyegold",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Bonzai",
+				"uiTheme": "vs",
+				"path": "./themes/Bonzai.tmTheme"
+			}
+		]
+	}
+}
