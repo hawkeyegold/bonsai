@@ -1,2 +1,2 @@
-# bonzai
-VS Code Bonzai Theme
+# bonsai
+VS Code Bonsai Theme
