@@ -518,6 +518,6 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.light.bonzai</string>
+	<string>theme.light.bonsai</string>
 </dict>
 </plist>
