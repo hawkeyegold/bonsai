@@ -1,0 +1,36 @@
+{
+	"name": "bonsai",
+	"displayName": "Bonsai",
+	"description": "Bonsai minimal color high contrast theme for Visual Studio Code",
+	"version": "1.0.0",
+	"publisher": "hawkeyegold",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Bonsai",
+				"uiTheme": "vs",
+				"path": "./themes/Bonsai.tmTheme"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hawkeyegold/bonsai.git"
+	},
+	"bugs": {
+		"url": "https://github.com/hawkeyegold/bonsai/issues",
+		"email": "dc.hawkeyegold@gmail.com"
+	},
+	"__metadata": {
+		"id": "",
+		"publisherId": "",
+		"publisherDisplayName": "hawkeyegold"
+	}
+}
