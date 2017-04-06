@@ -2,7 +2,7 @@
     "name": "bonsai",
     "displayName": "Bonsai",
     "description": "Bonsai minimal color high contrast theme for Visual Studio Code",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "hawkeyegold",
     "license": "MIT",
     "engines": {
