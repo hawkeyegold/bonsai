@@ -1,15 +1,20 @@
-![](https://raw.githubusercontent.com/JerryGoodwill/vscode-theme-starry-night/master/starry_night.jpg)
-# Starry Night
+![](https://raw.githubusercontent.com/hawkeyegold/bonsai/master/images/bonsai.png)
 
-Starry Night - subtle, low contrast dark theme for Visual Studio Code editor.
+# Bonsai - 
+A VS Code Theme
+
+High contrast, aesthetically pleasing and minimally colored theme for Visual Studio Code editor.
 
 ## Screenshots
 
+### C#
+![](https://raw.githubusercontent.com/hawkeyegold/bonsai/master/images/csharp.png)
+
 ### JavaScript
-![](https://raw.githubusercontent.com/JerryGoodwill/vscode-theme-starry-night/master/js.jpg)
+![](https://raw.githubusercontent.com/hawkeyegold/bonsai/master/images/javascript.png)
 
-### HTML
-![](https://raw.githubusercontent.com/JerryGoodwill/vscode-theme-starry-night/master/html.jpg)
+### Html
+![](https://raw.githubusercontent.com/hawkeyegold/bonsai/master/images/html.png)
 
-### CSS
-![](https://raw.githubusercontent.com/JerryGoodwill/vscode-theme-starry-night/master/css.jpg)
+### Css
+![](https://raw.githubusercontent.com/hawkeyegold/bonsai/master/images/css.png)
