@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/hawkeyegold/bonsai/master/images/bonsai.png)
 
-# Bonsai - 
+# Bonsai
 A VS Code Theme
 
 High contrast, aesthetically pleasing and minimally colored theme for Visual Studio Code editor.

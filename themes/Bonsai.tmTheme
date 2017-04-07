@@ -257,6 +257,8 @@
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
+				<key>foreground</key>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -268,6 +270,8 @@
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
+				<key>foreground</key>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -292,6 +296,9 @@
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
+				<key>foreground</key>
+				<string>#000000</string>
+
 			</dict>
 		</dict>
 		<dict>
@@ -348,13 +355,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>JS: Operator</string>
+			<string>Operator</string>
 			<key>scope</key>
-			<string>keyword.operator.js</string>
+			<string>keyword.operator</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
-				<string>#687687</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -413,7 +422,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#0000FF</string>
+				<string>#016AC0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -425,6 +434,9 @@
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
+				<key>foreground</key>
+				<string>#000000</string>
+
 			</dict>
 		</dict>
 		<dict>
@@ -487,7 +499,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#0C07FF</string>
+				<string>#016AC0</string>
 			</dict>
 		</dict>
 		<dict>
