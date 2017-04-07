@@ -128,7 +128,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#000000</string>
 			</dict>
@@ -154,7 +154,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#016AC0</string>
+				<string>#016AC9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -178,9 +178,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>bold</string>
 				<key>foreground</key>
-				<string>#0000FF</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -191,9 +191,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>bold</string>
 				<key>foreground</key>
-				<string>#0000FF</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -217,7 +217,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string> bold</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#000000</string>
 			</dict>
@@ -230,7 +230,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string> bold</string>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#000000</string>
 			</dict>
@@ -243,9 +243,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>bold</string>
 				<key>foreground</key>
-				<string>#0000FF</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -446,9 +446,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>bold</string>
 				<key>foreground</key>
-				<string>#0000FF</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -458,6 +458,8 @@
 			<string>entity.other.attribute-name</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
 				<string>#000000</string>
 			</dict>
@@ -503,21 +505,63 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Markup: List</string>
+			<string>CSS Class</string>
 			<key>scope</key>
-			<string>markup.list</string>
+			<string>entity.other.attribute-name.class.css</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
-				<string>#B90690</string>
+				<string>#016AC0</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS Property Name</string>
+			<key>scope</key>
+			<string>support.type.property-name.css</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS Keyword</string>
+			<key>scope</key>
+			<string>keyword.other.unit.css</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS Number</string>
+			<key>scope</key>
+			<string>constant.numeric.css</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+
 	</array>
 	<key>uuid</key>
 	<string>ADD7FDE7-C6BE-454B-A71A-7951ED54FB04</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.light.bonsai</string>
+	<string>theme.light.bonzai</string>
 </dict>
 </plist>
