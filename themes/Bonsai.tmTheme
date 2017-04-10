@@ -187,7 +187,7 @@
 			<key>name</key>
 			<string>Function name</string>
 			<key>scope</key>
-			<string>entity.name.function, keyword.other.name-of-parameter.objc,entity.name.type,storage.type.function.arrow.js</string>
+			<string>entity.name.function, keyword.other.name-of-parameter.objc,entity.name.type,storage.type.function.arrow</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
