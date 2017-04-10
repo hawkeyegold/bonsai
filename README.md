@@ -7,6 +7,9 @@ High contrast, aesthetically pleasing and minimally colored theme for Visual Stu
 
 ## Screenshots
 
+### TypeScript
+![](https://raw.githubusercontent.com/hawkeyegold/bonsai/master/images/typescript.png)
+
 ### C Sharp
 ![](https://raw.githubusercontent.com/hawkeyegold/bonsai/master/images/csharp.png)
 

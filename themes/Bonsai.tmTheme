@@ -89,7 +89,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string> bold</string>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#000000</string>
 			</dict>
@@ -102,7 +102,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string> bold</string>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#DB2EBE</string>
 			</dict>
@@ -185,22 +185,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Preprocessor directive</string>
-			<key>scope</key>
-			<string>keyword.control.import</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#000000</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Function name</string>
 			<key>scope</key>
-			<string>entity.name.function, keyword.other.name-of-parameter.objc</string>
+			<string>entity.name.function, keyword.other.name-of-parameter.objc,entity.name.type,storage.type.function.arrow.js</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -213,33 +200,7 @@
 			<key>name</key>
 			<string>Type name</string>
 			<key>scope</key>
-			<string>entity.name.type</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#000000</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Type name</string>
-			<key>scope</key>
-			<string>storage.type</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#000000</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Type modifier</string>
-			<key>scope</key>
-			<string>storage.modifier</string>
+			<string>support.type,storage.type,storage.modifier,entity.name.type.ts,keyword.control.import</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -318,7 +279,7 @@
 			<key>name</key>
 			<string>Library object</string>
 			<key>scope</key>
-			<string>support.class, support.type</string>
+			<string>support.class</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
