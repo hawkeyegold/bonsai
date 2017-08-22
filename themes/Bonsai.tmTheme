@@ -200,7 +200,7 @@
 			<key>name</key>
 			<string>Type name</string>
 			<key>scope</key>
-			<string>support.type,storage.type,storage.modifier,entity.name.type.ts,keyword.control.import</string>
+			<string>support.type,storage.type,storage.modifier,entity.name.type.ts,entity.name.type.tsx,keyword.control.import</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
