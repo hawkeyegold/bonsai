@@ -141,7 +141,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string> bold</string>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#000000</string>
 			</dict>
@@ -207,6 +207,84 @@
 				<string>bold</string>
 				<key>foreground</key>
 				<string>#000000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Class this</string>
+			<key>scope</key>
+			<string>variable.language.this.ts,variable.language.this.js,variable.language.this.tsx</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#333333</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Decorator scoped strings</string>
+			<key>scope</key>
+			<string>string.quoted.single.tsx,string.quoted.single.ts,string.quoted.double.tsx,string.quoted.double.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#016AC9</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Decorator scope excludes</string>
+			<key>scope</key>
+			<string>source.tsx meta.decorator.tsx meta.objectliteral.tsx meta.object.member.tsx meta.object-literal.key.tsx,punctuation.separator.comma.tsx,punctuation.separator.comma.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ts Decorator</string>
+			<key>scope</key>
+			<string>meta.decorator.ts, source.ts meta.class.ts meta.decorator.ts variable.other.readwrite.ts, source.ts meta.class.ts meta.decorator.ts meta.function-call.ts entity.name.function.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#00A90A</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tsx Decorator</string>
+			<key>scope</key>
+			<string>source.tsx meta.decorator.tsx punctuation.decorator.tsx,source.tsx meta.decorator.tsx variable.other.readwrite.tsx,source.tsx meta.decorator.tsx meta.function-call.tsx entity.name.function.tsx</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#00A90A</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Js Decorator</string>
+			<key>scope</key>
+			<string>source.js meta.decorator.js variable.other.readwrite.js, source.js meta.decorator.js punctuation.decorator.js, source.js meta.decorator.js meta.function-call.js entity.name.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#00A90A</string>
 			</dict>
 		</dict>
 		<dict>
