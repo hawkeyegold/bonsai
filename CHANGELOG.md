@@ -1,3 +1,6 @@
+### v 1.4.0
+* added syntax color for @decorators in js, jsx, ts and tsx file types
+
 ### v 1.3.2
 * fixed changelog
 
